@@ -13,7 +13,8 @@ It demonstrates cloud-based data engineering practices for large-scale cricket d
    - Top run-scorers and wicket-takers
    - Most successful teams and venues
    - Toss decision impact
-   - Season-wise and player-wise insights  
+   - Season-wise and player-wise insights
+   - Including graphs and chats for respective visualizations.
 4. **Visualization**: Created using Databricks built-in display tools and PySpark functions.
 
 ---
