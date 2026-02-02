@@ -24,7 +24,7 @@ It demonstrates cloud-based data engineering practices for large-scale cricket d
 
 | Component | Technology Used |
 |------------|----------------|
-| Cloud Platform | AWS (S3) |
+| Cloud Platform | AWS  |
 | Compute Platform | Databricks |
 | Processing Engine | PySpark |
 | Visualization | Matplotlib, Seaborn, Databricks display() |
