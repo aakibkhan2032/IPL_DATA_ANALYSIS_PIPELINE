@@ -34,3 +34,5 @@ It demonstrates cloud-based data engineering practices for large-scale cricket d
 
 ## 🗂️ Project Architecture
 
+Refer to the architecture_diagram folder in the main branch
+
